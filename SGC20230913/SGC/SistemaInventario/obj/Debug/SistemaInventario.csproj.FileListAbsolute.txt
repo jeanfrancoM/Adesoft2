@@ -1,0 +1,26 @@
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\bin\SistemaInventario.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\bin\SistemaInventario.pdb
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\bin\CapaDatos.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\bin\CapaEntidad.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\bin\CapaNegocios.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\bin\EasyCallback.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\bin\EPPlus.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\bin\itextsharp.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\bin\KeepAutomation.Barcode.Crystal.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\bin\CapaDatos.pdb
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\bin\CapaEntidad.pdb
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\bin\CapaNegocios.pdb
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\obj\Debug\SistemaInventario.csprojResolveAssemblyReference.cache
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\obj\Debug\SistemaInventario.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario\obj\Debug\SistemaInventario.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario\bin\SistemaInventario.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario\bin\SistemaInventario.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario\bin\CapaDatos.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario\bin\CapaEntidad.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario\bin\CapaNegocios.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario\bin\CapaDatos.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario\bin\CapaEntidad.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario\bin\CapaNegocios.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario\obj\Debug\SistemaInventario.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario\obj\Debug\SistemaInventario.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario\obj\Debug\SistemaInventario.pdb

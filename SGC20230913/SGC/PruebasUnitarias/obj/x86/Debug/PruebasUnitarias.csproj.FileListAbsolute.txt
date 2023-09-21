@@ -1,0 +1,24 @@
+D:\TFS\VS2010_SGC\SGC\PruebasUnitarias\bin\Debug\PruebasUnitarias.exe.config
+D:\TFS\VS2010_SGC\SGC\PruebasUnitarias\bin\Debug\PruebasUnitarias.exe
+D:\TFS\VS2010_SGC\SGC\PruebasUnitarias\bin\Debug\PruebasUnitarias.pdb
+D:\TFS\VS2010_SGC\SGC\PruebasUnitarias\bin\Debug\SistemaInventario.WSNotificacionDiferenciaAzure.exe
+D:\TFS\VS2010_SGC\SGC\PruebasUnitarias\bin\Debug\CapaDatos.dll
+D:\TFS\VS2010_SGC\SGC\PruebasUnitarias\bin\Debug\CapaEntidad.dll
+D:\TFS\VS2010_SGC\SGC\PruebasUnitarias\bin\Debug\SistemaInventario.WSNotificacionDiferenciaAzure.pdb
+D:\TFS\VS2010_SGC\SGC\PruebasUnitarias\bin\Debug\CapaDatos.pdb
+D:\TFS\VS2010_SGC\SGC\PruebasUnitarias\bin\Debug\CapaEntidad.pdb
+D:\TFS\VS2010_SGC\SGC\PruebasUnitarias\obj\x86\Debug\PruebasUnitarias.csprojResolveAssemblyReference.cache
+D:\TFS\VS2010_SGC\SGC\PruebasUnitarias\obj\x86\Debug\PruebasUnitarias.exe
+D:\TFS\VS2010_SGC\SGC\PruebasUnitarias\obj\x86\Debug\PruebasUnitarias.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\PruebasUnitarias\bin\Debug\PruebasUnitarias.exe.config
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\PruebasUnitarias\bin\Debug\PruebasUnitarias.exe
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\PruebasUnitarias\bin\Debug\PruebasUnitarias.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\PruebasUnitarias\bin\Debug\SistemaInventario.WSNotificacionDiferenciaAzure.exe
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\PruebasUnitarias\bin\Debug\CapaDatos.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\PruebasUnitarias\bin\Debug\CapaEntidad.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\PruebasUnitarias\bin\Debug\SistemaInventario.WSNotificacionDiferenciaAzure.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\PruebasUnitarias\bin\Debug\CapaDatos.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\PruebasUnitarias\bin\Debug\CapaEntidad.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\PruebasUnitarias\obj\x86\Debug\PruebasUnitarias.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\PruebasUnitarias\obj\x86\Debug\PruebasUnitarias.exe
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\PruebasUnitarias\obj\x86\Debug\PruebasUnitarias.pdb

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D500ACFE-8A7F-4727-A0DD-7398E984FAE3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaDatos</RootNamespace>
+    <AssemblyName>CapaDatos</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BancosCD.cs" />
+    <Compile Include="CargosCD.cs" />
+    <Compile Include="CajaFisicaCD.cs" />
+    <Compile Include="AzureCD.cs" />
+    <Compile Include="CheckListCD.cs" />
+    <Compile Include="FormatoImpresionCD.cs" />
+    <Compile Include="MargenDescuentoCD.cs" />
+    <Compile Include="OrdenPedidoCabCD.cs" />
+    <Compile Include="Planilla_CargoCD.cs" />
+    <Compile Include="Planilla_PagosCabCD.cs" />
+    <Compile Include="Planilla_PeriodoCD.cs" />
+    <Compile Include="Planilla_CategoriaValoresCD.cs" />
+    <Compile Include="Planilla_ConceptoRemuneracionCD.cs" />
+    <Compile Include="Planilla_CategoriaCD.cs" />
+    <Compile Include="Planilla_AFPCD.cs" />
+    <Compile Include="Planilla_TrabajadorCD.cs" />
+    <Compile Include="Planilla_SalarioCD.cs" />
+    <Compile Include="Planilla_SemanaCD.cs" />
+    <Compile Include="Planilla_ProyectoCD.cs" />
+    <Compile Include="Planilla_RegimenLaboralCD.cs" />
+    <Compile Include="FacturadorCD.cs" />
+    <Compile Include="EmisorCD.cs" />
+    <Compile Include="ExtensionMethods.cs" />
+    <Compile Include="ObligacionesTributariasCD.cs" />
+    <Compile Include="EmpleadoCD.cs" />
+    <Compile Include="MenuCD.cs" />
+    <Compile Include="TCCuentaCorrienteLineaCreditoCD.cs" />
+    <Compile Include="LGStockAlmacenCD.cs" />
+    <Compile Include="LGProductosActualizacionPreciosCD.cs" />
+    <Compile Include="DocumentoVentaCabCD.cs" />
+    <Compile Include="DocumentoVentaDetCD.cs" />
+    <Compile Include="ImagenesCD.cs" />
+    <Compile Include="LetrasCabCD.cs" />
+    <Compile Include="LGFamiliasCD.cs" />
+    <Compile Include="LGProductosCD.cs" />
+    <Compile Include="MovimientosCD.cs" />
+    <Compile Include="NotaIngresoSalidaCabCD.cs" />
+    <Compile Include="NotaIngresoSalidaDetCD.cs" />
+    <Compile Include="ProformaCabCD.cs" />
+    <Compile Include="TCAlmacenCD.cs" />
+    <Compile Include="TCConceptosCD.cs" />
+    <Compile Include="TCConceptosDetCD.cs" />
+    <Compile Include="TCCorrelativoCD.cs" />
+    <Compile Include="TCCuentaCorrienteCD.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TCDepartamentoCD.cs" />
+    <Compile Include="TCDistritoCD.cs" />
+    <Compile Include="TCDocumentosCD.cs" />
+    <Compile Include="TCEmpresaCD.cs" />
+    <Compile Include="TCProvinciaCD.cs" />
+    <Compile Include="TCTasasCD.cs" />
+    <Compile Include="TCTipoCambioCD.cs" />
+    <Compile Include="TerritorioCD.cs" />
+    <Compile Include="TipoOperacionesCD.cs" />
+    <Compile Include="TrasladosCabCD.cs" />
+    <Compile Include="TrasladosDetCD.cs" />
+    <Compile Include="UsuarioCD.cs" />
+    <Compile Include="VehiculoCD.cs" />
+    <Compile Include="VehiculoComponenteCD.cs" />
+    <Compile Include="VehiculoPlanMantenimientoCD.cs" />
+    <Compile Include="VehiculoPlanMantenimientoDetCD.cs" />
+    <Compile Include="VehiculoTipoPlanCD.cs" />
+    <Compile Include="ZonaCD.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{139304B2-7BBC-49C4-A018-19C049C09852}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LetrasDetCD.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

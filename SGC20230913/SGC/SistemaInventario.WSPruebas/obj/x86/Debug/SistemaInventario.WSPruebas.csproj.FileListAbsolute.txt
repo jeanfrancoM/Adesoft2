@@ -1,0 +1,28 @@
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\bin\Debug\SistemaInventario.WSPruebas.exe.config
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\bin\Debug\SistemaInventario.WSPruebas.exe
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\bin\Debug\SistemaInventario.WSPruebas.pdb
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\bin\Debug\SistemaInventario.WSSincronizacionAzure.exe
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\bin\Debug\CapaEntidad.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\bin\Debug\CapaNegocios.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\bin\Debug\CapaDatos.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\bin\Debug\SistemaInventario.WSSincronizacionAzure.pdb
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\bin\Debug\CapaEntidad.pdb
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\bin\Debug\CapaNegocios.pdb
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\bin\Debug\CapaDatos.pdb
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\obj\x86\Debug\SistemaInventario.WSPruebas.csprojResolveAssemblyReference.cache
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\obj\x86\Debug\SistemaInventario.WSPruebas.exe
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSPruebas\obj\x86\Debug\SistemaInventario.WSPruebas.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\bin\Debug\SistemaInventario.WSPruebas.exe.config
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\bin\Debug\SistemaInventario.WSPruebas.exe
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\bin\Debug\SistemaInventario.WSPruebas.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\bin\Debug\SistemaInventario.WSSincronizacionAzure.exe
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\bin\Debug\CapaEntidad.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\bin\Debug\CapaNegocios.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\bin\Debug\CapaDatos.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\bin\Debug\SistemaInventario.WSSincronizacionAzure.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\bin\Debug\CapaEntidad.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\bin\Debug\CapaNegocios.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\bin\Debug\CapaDatos.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\obj\x86\Debug\SistemaInventario.WSPruebas.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\obj\x86\Debug\SistemaInventario.WSPruebas.exe
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSPruebas\obj\x86\Debug\SistemaInventario.WSPruebas.pdb

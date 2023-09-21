@@ -1,0 +1,30 @@
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\obj\x86\Debug\SistemaInventario.WSSincronizacionAzure.csprojResolveAssemblyReference.cache
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\obj\x86\Debug\SistemaInventario.WSSincronizacionAzure.ProjectInstaller.resources
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\obj\x86\Debug\SistemaInventario.WSSincronizacionAzure.SyncAzure.resources
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\obj\x86\Debug\SistemaInventario.WSSincronizacionAzure.csproj.GenerateResource.Cache
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\SistemaInventario.WSSincronizacionAzure.exe.config
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\SistemaInventario.WSSincronizacionAzure.exe
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\SistemaInventario.WSSincronizacionAzure.pdb
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\CapaEntidad.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\CapaNegocios.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\CapaDatos.dll
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\CapaEntidad.pdb
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\CapaNegocios.pdb
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\CapaDatos.pdb
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\obj\x86\Debug\SistemaInventario.WSSincronizacionAzure.exe
+D:\TFS\VS2010_SGC\SGC\SistemaInventario.WSSincronizacionAzure\obj\x86\Debug\SistemaInventario.WSSincronizacionAzure.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\SistemaInventario.WSSincronizacionAzure.exe.config
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\SistemaInventario.WSSincronizacionAzure.exe
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\SistemaInventario.WSSincronizacionAzure.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\CapaEntidad.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\CapaNegocios.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\CapaDatos.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\CapaEntidad.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\CapaNegocios.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\bin\Debug\CapaDatos.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\obj\x86\Debug\SistemaInventario.WSSincronizacionAzure.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\obj\x86\Debug\SistemaInventario.WSSincronizacionAzure.ProjectInstaller.resources
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\obj\x86\Debug\SistemaInventario.WSSincronizacionAzure.SyncAzure.resources
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\obj\x86\Debug\SistemaInventario.WSSincronizacionAzure.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\obj\x86\Debug\SistemaInventario.WSSincronizacionAzure.exe
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\SistemaInventario.WSSincronizacionAzure\obj\x86\Debug\SistemaInventario.WSSincronizacionAzure.pdb

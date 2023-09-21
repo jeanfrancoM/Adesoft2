@@ -1,0 +1,8 @@
+D:\TFS\VS2010_SGC\SGC\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\TFS\VS2010_SGC\SGC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\TFS\VS2010_SGC\SGC\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\TFS\VS2010_SGC\SGC\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\ADMIN\Pictures\SGC20230913 (1)\SGC\CapaEntidad\obj\Debug\CapaEntidad.pdb
