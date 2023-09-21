@@ -3068,7 +3068,7 @@ namespace SistemaInventario.Reportes
             Response.End();
         }
 
-        public void report() { }
+      
 
         public void P_Reporte_Cobranzas_Hasta()
         {
@@ -3078,10 +3078,7 @@ namespace SistemaInventario.Reportes
 
             var nombreHoja = Request["NombreHoja"].ToString();
             var ws = pck.Workbook.Worksheets.FirstOrDefault(sheet => sheet.Name == nombreHoja);
-            if (ws != null)
-            {
-                pck.Workbook.Worksheets.Delete(ws);
-            }
+           
 
             ws = pck.Workbook.Worksheets.Add(nombreHoja);
 
@@ -3179,13 +3176,8 @@ namespace SistemaInventario.Reportes
                         ws.Cells["G" + (c + j + 1).ToString()].Value = "TOTAL:";
 
                         ws.Cells["H" + (c + j + 1).ToString()].Formula = "SUM(H" + (Partida).ToString() + ":H" + (c + j).ToString() + ")";
-                        ws.Cells["I" + (c + j + 1).ToString()].Value = monedaTotal; // Agrega la moneda
-
-                        string startCell = "A" + Partida;
-                        string endCell = "A" + (c + j);
-                        var rucCellRange = ws.Cells[startCell + ":" + endCell];
-                        rucCellRange.Merge = true;
-
+                   
+                     
                         // Centra horizontal y verticalmente
                         rucCellRange.Style.HorizontalAlignment = ExcelHorizontalAlignment.Center;
                         rucCellRange.Style.VerticalAlignment = ExcelVerticalAlignment.Center;
